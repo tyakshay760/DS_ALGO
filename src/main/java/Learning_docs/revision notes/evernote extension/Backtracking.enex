@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE en-export SYSTEM "http://xml.evernote.com/pub/evernote-export4.dtd">
+<en-export export-date="20220122T102910Z" application="Evernote" version="10.24.3">
+  <note>
+    <title>Backtracking</title>
+    <created>20210902T172524Z</created>
+    <updated>20211128T035308Z</updated>
+    <note-attributes>
+      <author>Akshay Yadav</author>
+    </note-attributes>
+    <content>
+      <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE en-note SYSTEM "http://xml.evernote.com/pub/enml2.dtd"><en-note><ol><li><div>work done  while going, undo that while coming back.</div></li></ol><div>          In recursive call, while going up in heap do some work like mark cells visited </div><div>         then while coming down from heap, undo that work, like mark unvisited again,</div><div>     2.    When to use :</div><div>      Whenever we need to print All paths, think of back tracking. </div><div><br /></div><div>Questions: refer </div><div><a href="https://classroom.pepcoding.com/myClassroom/the-switch-program-4/recursion-&amp;-backtracking/flood-fill-official/ojquestion" rev="en_rl_none">https://classroom.pepcoding.com/myClassroom/the-switch-program-4/recursion-&amp;-backtracking/flood-fill-official/ojquestion</a></div><div><br /></div><div><br /></div></en-note>      ]]>
+    </content>
+  </note>
+</en-export>
