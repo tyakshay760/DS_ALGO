@@ -1,0 +1,356 @@
+Google: 
+https://careers.google.com/how-we-hire/#interviews-for-software-engineering-and-technical-roles
+https://careers.google.com/how-we-hire/#phone-hangout-interviews
+https://careers.google.com/how-we-hire/
+https://www.codefellows.org/blog/setting-up-google-docs-for-technical-interview-happiness/
+https://careers.google.com/how-we-hire/#_
+https://careers.google.com/how-we-hire/#interviews-for-all-roles
+https://www.codinginterview.com/google
+https://careers.google.com/how-we-hire/#interviews-for-software-engineering-and-technical-roles
+https://www.codinginterview.com/interview-roadmap	
+https://betterprogramming.pub/how-i-got-into-google-without-a-cs-degree-f1d3c0a3f10e
+
+https://betterprogramming.pub/the-step-by-step-guide-to-answering-a-technical-question-in-a-coding-interview-37928490d4e2
+
+Resume tips:
+Pro tip: Use a metric-driven description. Try the formula “Accomplished X, as measured by Y, by doing Z.” For example, If your resume states, “Decreased server query response time,” rephrase it as “Decreased server query response time by 15 percent by restructuring our API.”
+
+Google coding questions
+
+Find the Kth largest element in a number stream.
+2. Find K closest numbers.
+
+google top 15 interview questions:
+Top 15 Google coding interview questions
+Find the Kth largest element in a number stream.
+Problem statement: Design a class to efficiently find the Kth largest element in a stream of numbers. The class should have the following two things: ​
+The constructor of the class should accept an integer array containing initial numbers from the stream and an integer K.
+The class should expose a function add(int num) which will store the given number and return the Kth largest number.
+2. Find K closest numbers.
+Problem statement: Given a sorted number array and two integers K and X, find K closest numbers to X in the array. Return the numbers in the sorted order. X is not necessarily present in the array.
+3. Delete node with given key.
+Problem statement: You are given the head of a linked list and a key. You have to delete the node that contains this given key.
+4. Copy linked list with arbitrary pointer.
+Problem statement: You are given a linked list where the node has two pointers. The first is the regular next pointer. The second pointer is called arbitrary_pointer, and it can point to any node in the linked list.
+Your job is to write code to make a deep copy of the given linked list. Here, deep copy means that any operations on the original list (inserting, modifying, and removing) should not affect the copied list.
+5. Mirror binary trees.
+Problem statement: Given the root node of a binary tree, swap the left and right children for each node.
+6. Find all paths for a sum.
+Problem statement: Given a binary tree and a number S, find all paths from root-to-leaf such that the sum of all the node values of each path equals S.
+7. Find the length of the longest substring with no more than K distinct characters.
+Problem statement: Given a string, find the length of the longest substring in it with no more than K distinct characters.
+8. Find the longest substring with no repeating characters.
+Problem statement: Given a string, find if its letters can be rearranged in such a way that no two same characters come next to each other.
+9. Find equal-sum subset partition.
+Problem statement: Given a set of positive numbers, find if we can partition it into two subsets such that the sum of elements in both subsets is equal.
+10. Determine if the number is valid.
+Problem statement: Given an input string, determine if it makes a valid number or not. For simplicity, assume that white spaces are not present in the input.
+11. Print balanced brace combinations.
+Problem statement: Print all braces combinations for a given value N so that they are balanced.
+12. Given a number of tasks, determine if they can all be scheduled.
+Problem statement: There are N tasks, labeled from 0 to N-1. Each task can have some prerequisite tasks that need to be completed before it can be scheduled. Given the number of tasks and a list of prerequisite pairs, find out if it is possible to schedule all the tasks.
+13. Implement an LRU cache.
+Problem statement: Least Recently Used (LRU) is a common caching strategy. It defines the policy to evict elements from the cache to make room for new elements when the cache is full, meaning it discards the least recently used items first.
+14. Find the high and low index.
+Problem statement: Given a sorted array of integers, return the low and high index of the given key. Return -1 if not found. The array length can be in the millions, with many duplicates.
+15. Merge overlapping intervals.
+Problem statement: You are given an array (list) of interval pairs as input where each interval has a start and end timestamp. The input array is sorted by starting timestamps. You are required to merge overlapping intervals and return output array (list).
+
+
+
+
+If you’ve ever taken a behavioral interview, you’ve probably heard of the STAR method (Situation, Task, Action, Result). REACTO is the coding version of this. There is an excellent video I’ve linked below that goes over the REACTO approach. Definitely worth watching. But real quick, here’s what REACTO stands for:
+Repeat the question
+Examples
+Approach
+Code
+Test
+O, as in Big O
+
+preperation plan:
+https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/
+
+// Interview cake
+https://www.interviewcake.com/concept/java/lru-cache
+
+
+
+
+
+// All interview problem at one place
+https://www.techiedelight.com/data-structures-and-algorithms-problems/
+http://www.algorithmsandme.com/longest-increasing-subsequence/
+
+
+google:
+https://www.careercup.com/page?pid=google-interview-questions
+
+
+FACEBOOK:
+https://levelup.gitconnected.com/cracking-the-top-40-facebook-coding-interview-questions-185bab32489f
+
+Amazon:SDE sheet
+https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit
+
+
+GITHUB
+https://github.com/varunu28/LeetCode-Java-Solutions/tree/master/Easy
+
+BLOGS: 
+http://blog.gainlo.co/index.php/category/google-interview-preparation/
+https://medium.com/basecs/tagged/data-structures
+https://ombharatiya.medium.com/when-to-choose-nosql-over-sql-or-relational-database-sql-vs-nosql-by-ombharatiya-349dd035c01a
+
+Mock Interview: 
+https://www.pramp.com/#/
+
+coding challange practise:
+https://codingcompetitions.withgoogle.com/kickstart/archive/2020
+
+System design: 
+https://medium.com/geekculture/top-10-system-design-interview-questions-10f7b5ea123d
+
+https://towardsdatascience.com/system-design-interview-checklist-a-gateway-to-faangs-2b7fac80e423 : better than 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+DS Algo Resource: 
+Aditya Verma : https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ/playlists
+https://dev.tube/
+SystemDesign
+https://www.youtube.com/c/SystemDesignInterview/videos
+https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA/videos
+Blogs:
+https://netflixtechblog.medium.com/
+https://eng.uber.com/
+https://medium.com/@Pinterest_Engineering
+https://engineering.fb.com/
+https://medium.com/airbnb-engineering
+
+time and space cheetsheet
+https://www.bigocheatsheet.com/
+https://stackoverflow.com/questions/487258/what-is-a-plain-english-explanation-of-big-o-notation
+
+Spring security: 
+https://www.programmer-books.com/wp-content/uploads/2019/04/Spring-5-Recipes-4th-Edition.pdf
+
+github for Algo:
+https://github.com/awangdev/LintCode/tree/master/Java
+
+Leadership principle:
+https://www.amazon.jobs/en/principles
+
+what to do before go for interview: 
+https://medium.com/faang-interview/%D1%87%D1%82%D0%BE-%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C-%D0%B7%D0%B0-1-%D0%BD%D0%B5%D0%B4%D0%B5%D0%BB%D1%8E-%D0%B4%D0%BE-google-onsite-ca0001c312dd
+
+Tips: 
+-So after learning an algorithm, then at least practice 4–5 problems on that algorithm, it 
+will help you to understand the algorithm clearly.
+- You can practice questions on Spoj, Codeforces, Codechef, Hackerearth, HackerRank, etc.
+-Also start participating in the contests as much as possible(e.g., codeforces contests, codechef long contests, etc.). Also participate in Google Code Jam, Google Kick Start, Facebook HackerCup and ACM ICPC, search on google if you’ve never heard these names before.
+
+
+SystemDesign interview questions:
+https://tianpan.co/notes/2016-02-13-crack-the-system-design-interview
+https://artem-goncharov.medium.com/grokking-the-mobile-system-design-interview-6a06fa94491b
+https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ
+
+
+
+
+HLD Questions:
+1.Design a distributed locking system.
+
+   You cannot use any external database system. The only access you will have is to the local filesystem.
+   Latency for checking or acquiring a lock should be less than 10ms.
+   You are going to get an equal amount of read and write load.
+   The application should be Highly Available.
+   You should take care of the time drift.
+   How are you going to provide resiliency without downtime.
+   How will you architect it in a multi DC scenario.
+2. Design a system to handle flash sale.
+	You are going to receive the traffic 100x of the BAU.
+	Particular focus needs to be given to the product and checkout page and how we are going to handle high demand with limited inventory.
+	The product page should be of low latency, high throughput, and high availability. The checkout page should support high throughput and high availability.
+	The system should be as fair as possible. If I ordered the item before someone else, then I should be given priority.
+	The product page should reflect if the item is no longer available.
+	If the item is no longer available, I should be put into a fair wait queue, where I will get a chance to buy the product if someone cancels the order or new units are added to inventory.
+	I should take care of the hotspots in my databases (for example -> details for the flash sale product is going to the same shard if the cache used is partitioned by product id)
+3. Design a tagging system.
+	People can put tags on their documents, and people are able to search based on those tags.
+	The tag should reflect and be searchable for the person who added it in a transactional manner. The tag can be propagated for other user’s search results with a little lag or delay (async fashion).
+	Provide the rest API contracts for your service.
+	Make database type choices and create a database schema for your service.
+	You need to serve a set of popular tags in a time window, for example, the most popular tags in the last seven days in real-time.
+	How are you going to architect it in a Multi-DC environment.
+	The build and deployment pipeline for it, metrics to push, alerts etc.
+4. Design a food delivery app
+	People should be able to search for the nearest restaurants. Search service should be highly available and low latency. Adding/Deleting a restaurant can be eventually consistent for the search view.
+	One order will only be associated with one restaurant. A person can order multiple items and multiple quantities of the item.
+	A delivery guy needs to be assigned for every order with a tracking service. The heuristics should be to assign the delivery guy who is nearest to the restaurant and is available.
+	You need to design the database schema after the database choices for different read/write patterns and REST API Contracts.
+5. Design a dashboard for serving real-time insights (requires designing a data warehouse solution)
+	Ingest events happening across the organization. (These can be transactional events too and hence might need to relay the logs from DBs, apart from the services already pushing into the message bus) .
+	How the schema registration and validation is going to happen for these events.
+	In what type of data store and format should the data be stored for doing aggregates over this data in batch mode (Avro, Parquet, ORC, etc.)
+	It might be required to join data between multiple streams for real-time insights. Data enrichment might be required from URL endpoints.
+	How the raw events are going to be stored, and historic and reconciliation will happen.
+	How the final insights are going to be stored and served, with a preferred type of database like time series DB.
+6. Design ecommerce estimated delivery time
+	Given an e-commerce website, we need to show the expected delivery time. There are going to be two types of expected delivery time. One which will be shown on the product page, which can have a higher error margin, and the one that will be shown post-checkout, which needs to be more accurate.
+	For the first case, we need low latency and high throughput, and hence the expected delivery time needs to be precomputed. You need to finalize the pivots with the interviewer, which are going to be used for estimation. This can be something like (seller pincode, buyer pincode).
+	Design the complete data ingestion pipeline, forming curated features, running rules and ML Models on top of it, generating insights and serving pipeline for this.
+7. Design a URL Shortener with Multi-tenancy
+	This service will generate short names for long URL’s and will redirect these short names to original URL’s when accessed.
+	The service should be highly available and read request should have very low latency and very high throughput.
+	The creation of short names should be transactional. The short name mappings should have TTL concept and there shouldn’t be any clash between the short names.
+	How the system is going to work in multi tenant environment. How capacity and storage planning is going to work in such scenario.
+
+LLD :
+---
+- Code a rate-limiting algorithm. The approach I proposed was similar to the leaky bucket algorithm or token bucket algorithm provided by the Guava Library.
+In Memory Kafka
+- Build a coffee maker machine, which has multiple ingredients and a set of beverages, which can be prepared by using these ingredients. The preparation of a beverage should be done as a transaction, with rollbacks, if a certain ingredient is not available while preparing a beverage. Ingredients can be added, and beverages can be prepared, etc. in a concurrent fashion.
+
+
+
+git profile : 
+https://ombharatiya.medium.com/building-github-profile-using-readme-md-ombharatiya-8d7663e8456b
+
+https://chathuranga94.medium.com/introduction-to-redis-348d9ccbfd0d
+
+kafka:
+https://betterprogramming.pub/thorough-introduction-to-apache-kafka-6fbf2989bbc1
+
+Dynamic programming toturial: 
+https://dpp.guide/dynamic-programming-patterns-595815f2468d 
+
+
+
+STAR technique: read about it.
+
+what does the preperation takes:
+20 System Design problem: 
+400 simple to easy leetcode question.
+all Design patterns.
+
+Behavorial Questions at the last. 
+
+
+Timelines for preparation: 
+
+1. where i stand currently. 
+2. how much improvement is required
+3. and how much time it will take to prepare.
+
+
+
+https://github.com/orrsella/soft-eng-interview-prep
+http://highscalability.com/
+
+
+---------------------------------------
+Medium Linkedin  referal : 
+
+Google: 
+https://www.linkedin.com/in/jinal-parikh/
+https://medium.com/jinal-parikh/preparing-for-the-google-swe-interview-11c719ede482
+
+https://www.linkedin.com/in/shashi-bhushan-coder/
+
+--------------------------------------------
+Top 100 companies:
+https://shashibhushankr.medium.com/top-100-tech-companies-in-india-for-software-developers-6329dab43c0a
+-----------------------------------------
+
+Query processing  : Arrays Questions 
+---------------  
+steps to answer interview questions
+https://lamdo97.medium.com/10-steps-for-answering-a-coding-interview-question-d600ea15808e
+
+
+-------------------------------------------------------------
+
+After prepraration: 
+https://practice.geeksforgeeks.org/courses/must-do-interview-prep?vC=1
+
+-----------------------------------------------------------------------
+
+LeVOSITRAZIN:
+ivermectin: aaj ka li then 3 to 4 days:
+cuseup: 2-3 bottle
+
+----------------------------------------------------------------------
+@Adityaku for reference in below companies
+google
+amazon
+micro
+salesforce
+flipkart
+myntra
+phonePay
+
+-----------------------------------------------------------------------
+
+cassandra:
+https://blog.softwaremill.com/7-mistakes-when-using-apache-cassandra-51d2cf6df519
+
+System design cheetsheet: 
+https://vivek-singh.medium.com/system-design-cheat-sheet-318ba2e34723
+https://medium.com/tag/system-design-interview
+---------------------------------------------------------
+
+Medium interview prep:
+ https://levelup.gitconnected.com/prepare-for-a-google-or-other-software-developer-coding-interview-in-10-days-44f3d488f7ea
+
+
+
+https://medium.com/@nhudinhtuan/15-days-cheat-sheet-for-hacking-technical-interviews-at-big-tech-companies-d780717dcec1
+---------------------------------------------------------------------------------
+
+little glimpse about amazon s3
+why we need s3 in our application. 
+how are we connecting with s3. 
+
+understand more on redshift ? 
+Reason why we choose redshift ? 
+benifits of redshift 
+
+best resources to understand more on s3 and redshift. 
+		
+
+
+
+------------------------------
+google: hard
+ uber: do not go design
+ sweegy: hard 
+ Facebook: hard
+ 
+ micro
+ flipkart
+ JP morgan
+ Goldman sachs 
+ linkedin
+ Disney hotstar
+ tweeter
+ apple 
+ ola (do not go)
+ phone pay
+-----------------
+

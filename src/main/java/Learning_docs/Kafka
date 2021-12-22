@@ -1,0 +1,14 @@
+KAFKA : 
+https://betterprogramming.pub/thorough-introduction-to-apache-kafka-6fbf2989bbc1
+
+1. Partitions are the main concurrency mechanism in Kafka. A topic is divided into 1 or more partitions, enabling producer and consumer loads to be scaled. Specifically, a consumer group supports as many consumers as partitions for a topic. The consumers are shared evenly across the partitions, allowing for the consumer load to be linearly scaled by increasing both consumers and partitions. You can have fewer consumers than partitions (in which case consumers get messages from multiple partitions), but if you have more consumers than partitions some of the consumers will be “starved” and not receive any messages until the number of consumers drops to (or below) the number of partitions. i.e. consumers don’t share partitions (unless they are in different consumer groups).
+
+
+
+KAFKA Introduction: 
+- Kafka takes bytes as an input and sends bytes as an output. That constraint-free protocol is what makes Kafka powerful. 
+- Kafka is a pure pub/sub. It takes bytes as an input and redistributes them without ever parsing them
+
+
+
+
